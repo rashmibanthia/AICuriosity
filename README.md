@@ -1,2 +1,3 @@
 # AICuriosity
-2025
+
+This is a random collection of things I'm working on / learning 👷🏽‍♀️ 🚧🚧🚧🚧👷🏽‍♀️
