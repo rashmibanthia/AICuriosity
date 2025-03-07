@@ -1,2 +1,4 @@
 .specstory
 *.zip
+*.pyc
+*.json
